@@ -1,11 +1,11 @@
 <h1 align="center">Sync Edit</h1>
 <p>
-  <li>Allows two users to edit and write code together in real time, with changes instantly reflected for both, utilizing
+  <li>Allows multiple users to edit and write code together in real time, with changes instantly reflected for both, utilizing
 WebSockets for seamless synchronization.
 </li>
-  <li>Users create a unique room ID to invite others, establishing a collaborative coding space using Node.js for backend
+  <li>Users creates a unique room ID to invite others, establishing a collaborative coding space using Node.js for backend
 management.</li>
-  <li>•React.js is used to create a responsive and user-friendly interface.
+  <li>React.js is used to create a responsive and user-friendly interface.
 </li>
 </p>
 
