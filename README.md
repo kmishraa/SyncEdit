@@ -1,10 +1,11 @@
 <h1 align="center">Sync Edit</h1>
 <p>
-  <li>Developed a comprehensive hospital management system using React, Node.js, Express, and MongoDB, featuring user registration,
-login, and logout functionality</li>
-  <li> Enabled seamless booking of doctor appointments across various departments, messaging, appointment status tracking, and viewing
-of appointment and doctor visit history.</li>
-  <li>• Created an admin dashboard for uploading new doctor and admin data, and displaying the entire booking history.
+  <li>Allows two users to edit and write code together in real time, with changes instantly reflected for both, utilizing
+WebSockets for seamless synchronization.
+</li>
+  <li>Users create a unique room ID to invite others, establishing a collaborative coding space using Node.js for backend
+management.</li>
+  <li>•React.js is used to create a responsive and user-friendly interface.
 </li>
 </p>
 
