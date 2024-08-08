@@ -33,10 +33,9 @@ const Home = () => {
     };
 
     const handleInputEnter = (e) => {
-        // if (e.code === 'Enter') {
-        //     joinRoom();
-        // }
-        console.log('event', e.code);
+        if (e.code === 'Enter') {
+            joinRoom();
+        }
     };
 
     return (
