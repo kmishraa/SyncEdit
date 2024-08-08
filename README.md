@@ -12,10 +12,11 @@ management.</li>
 <h1 align="left">Languages and Tools:</h1>
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
-<img src= "![HomePage](https://github.com/user-attachments/assets/05862469-c916-41f1-9814-bc32c90502c1)"/>
+
 
 
 </p>
+![HomePage](https://github.com/user-attachments/assets/60be154a-a3b5-405c-9110-fdee5e27285a)
 
 ## Available Scripts
 
