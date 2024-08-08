@@ -16,7 +16,7 @@ management.</li>
 
 
 </p>
-![HomePage](https://github.com/user-attachments/assets/60be154a-a3b5-405c-9110-fdee5e27285a)
+
 
 ## Available Scripts
 
@@ -84,3 +84,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![HomePage](https://github.com/user-attachments/assets/2bc31fab-c50e-4538-8f0c-4fa7972a56c0)
+
